@@ -74,10 +74,10 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Ignore level files
-E:/Unreal Projects/StartingProject/Content/Levels/*
+Content/Levels/
 
 #Ignore Paragon projects
-E:/Unreal Projects/StartingProject/Content/Assets/Paragon/*
+Content/Assets/Paragon/
 
 #Ignore enviroment
-E:/Unreal Projects/StartingProject/Content/Assets/Enviroment/*
+Content/Assets/Enviroment/
