@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Ignore level files
+E:/Unreal Projects/StartingProject/Content/Levels/*
+
+#Ignore Paragon projects
+E:/Unreal Projects/StartingProject/Content/Assets/Paragon/*
+
+#Ignore enviroment
+E:/Unreal Projects/StartingProject/Content/Assets/Enviroment/*
