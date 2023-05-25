@@ -75,6 +75,8 @@ DerivedDataCache/*
 
 #Ignore level files
 Content/Levels/
+Content/__ExternalActors__/
+Content/__ExternalObjects__
 
 #Ignore Paragon projects
 Content/Assets/Paragon/
